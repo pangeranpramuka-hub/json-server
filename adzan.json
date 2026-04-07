@@ -1,0 +1,37 @@
+{
+  "adzan_download": {
+    "makkah": {
+      "name": "Adzan Makkah",
+      "subuh": {
+        "url": "https://www.dropbox.com/scl/fi/k97ebwrq0r0ku6obr9prs/athan_makkah_fajr.mp3?rlkey=hw3pei6mazl4zp3nyn186a7ts&st=4yrov7yu&dl=1",
+        "file": "makkah_subuh.mp3"
+      },
+      "normal": {
+        "url": "https://www.dropbox.com/scl/fi/dtq8ytqjziro7vkmdn4sg/athan_makkah.mp3?rlkey=udyza7hmh25ettubcubeogqy8&st=m8tbf7bt&dl=1",
+        "file": "makkah_normal.mp3"
+      }
+    },
+    "alaqsa": {
+      "name": "Adzan Al-Aqsa",
+      "subuh": {
+        "url": "https://www.dropbox.com/scl/fi/2it38l44ov5icgc4b6tsd/athan_alaqsa_fajr.mp3?rlkey=u445u7y1xhe4f6rrawgxge92v&st=iyxsdi2o&dl=1",
+        "file": "alaqsa_subuh.mp3"
+      },
+      "normal": {
+        "url": "https://www.dropbox.com/scl/fi/k7zv0doxh4jc3bbpftwgc/athan_alaqsa.mp3?rlkey=15wcj5da64czan31aegvvih6e&st=tdcx0hkq&dl=1",
+        "file": "alaqsa_normal.mp3"
+      }
+    },
+    "indonesia": {
+      "name": "Adzan Indonesia",
+      "subuh": {
+        "url": "https://www.dropbox.com/scl/fi/s25oxd0czcwd097gxas91/athan_indonesia_fajr.mp3?rlkey=hoxgzc5opzzy7fhqqs4rw5koj&st=hcqbrnnj&dl=1",
+        "file": "indonesia_subuh.mp3"
+      },
+      "normal": {
+        "url": "https://www.dropbox.com/scl/fi/76512l9vwwdb73v9q3tvk/athan_indonesia.mp3?rlkey=r2e1mt1bqe8h15vg1r8hn05nd&st=eikwboom&dl=1",
+        "file": "indonesia_normal.mp3"
+      }
+    }
+  }
+}
